@@ -127,12 +127,9 @@ function mostrarEmpresa(d) {
     li.append(crear("span", "zona", t.zona), a);
     telefonos.append(li);
   });
+  
 
-  // Zonas
-  const zonas = document.getElementById("lista-zonas");
-  d.zonas.forEach((z) => zonas.append(crear("li", null, z)));
-
-  // Correo, Instagram y WhatsApp flotante
+    // Correo, Instagram y WhatsApp flotante
   const email = document.getElementById("dato-email");
   email.href = `mailto:${d.email}`;
   email.textContent = d.email;

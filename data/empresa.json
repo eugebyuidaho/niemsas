@@ -1,6 +1,7 @@
 {
   "nombre": "Grupo NIEM S.A.S.",
   "email": "contacto@gruponiemsas.online",
+  "direccion": "Avenida Hernandarias 173, Resistencia, Chaco",
   "whatsappPrincipal": "5493625223732",
   "telefonos": [
     { "zona": "Resistencia", "mostrar": "+54 9 362 522-3732", "whatsapp": "5493625223732" },

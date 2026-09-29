@@ -40,28 +40,18 @@
     "Organismos públicos",
     "Eventos"
   ],
-  "zonas": [
-    "Resistencia",
-    "Corrientes capital",
-    "Interior del Chaco"
-  ],
-  "eventos": [
-    {
-      "nombre": "Bienal del Chaco",
-      "lugar": "Resistencia, Chaco",
-      "imagen": "img/bienal.jpg"
-    }
-  ],
+
   "socios": [
-    {
-      "nombre": "Nicolas C. Schulz",
-      "cargo": "Socio",
-      "foto": "img/socio-1.jpg"
-    },
     {
       "nombre": "Emiliano Fernandez Quijano",
       "cargo": "Socio gerente",
       "foto": "img/socio-2.jpg"
+    },
+
+    {
+      "nombre": "Nicolas C. Schulz",
+      "cargo": "Socio",
+      "foto": "img/socio-1.jpg"
     }
   ]
 }

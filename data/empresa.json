@@ -1,0 +1,67 @@
+{
+  "nombre": "Grupo NIEM S.A.S.",
+  "email": "contacto@gruponiemsas.online",
+  "whatsappPrincipal": "5493625223732",
+  "telefonos": [
+    { "zona": "Resistencia", "mostrar": "+54 9 362 522-3732", "whatsapp": "5493625223732" },
+    { "zona": "Corrientes", "mostrar": "+54 9 379 420-3034", "whatsapp": "5493794203034" }
+  ],
+  "instagram": {
+    "usuario": "@grupo_niem_s.a.s",
+    "url": "https://www.instagram.com/grupo_niem_s.a.s/"
+  },
+  "beneficios": [
+    {
+      "titulo": "Un coordinador para tu servicio",
+      "texto": "Hace el seguimiento semanal y mensual, y ajusta, mejora o agrega lo que tu espacio necesite."
+    },
+    {
+      "titulo": "Insumos y uniformes incluidos",
+      "texto": "Nos encargamos de los materiales, así evitás el mal uso y los gastos extra."
+    },
+    {
+      "titulo": "Precios que se respetan",
+      "texto": "Al aprobar el presupuesto, el precio se mantiene en las fechas acordadas. Cualquier costo adicional lo asumimos nosotros."
+    },
+    {
+      "titulo": "Visita sin costo",
+      "texto": "Conocemos tu espacio antes de presupuestar, para ofrecerte una solución a medida."
+    }
+  ],
+  "sectores": [
+    "Empresas, oficinas y comercios",
+    "Bancos y financieras",
+    "Hoteles y alojamientos",
+    "Clínicas y hospitales",
+    "Colegios y universidades",
+    "Gimnasios y consultorios",
+    "Edificios y barrios privados",
+    "Construcciones",
+    "Organismos públicos",
+    "Eventos"
+  ],
+  "zonas": [
+    "Resistencia",
+    "Corrientes capital",
+    "Interior del Chaco"
+  ],
+  "eventos": [
+    {
+      "nombre": "Bienal del Chaco",
+      "lugar": "Resistencia, Chaco",
+      "imagen": "img/bienal.jpg"
+    }
+  ],
+  "socios": [
+    {
+      "nombre": "Carlos Emiliano Fernández Quijano",
+      "cargo": "Socio gerente",
+      "foto": "img/socio-1.jpg"
+    },
+    {
+      "nombre": "Mauricio Nicolás Cáceres Schulz",
+      "cargo": "Socio",
+      "foto": "img/socio-2.jpg"
+    }
+  ]
+}

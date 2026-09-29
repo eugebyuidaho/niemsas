@@ -1,0 +1,52 @@
+[
+  {
+    "id": "seguridad",
+    "nombre": "Seguridad y vigilancia",
+    "resumen": "Para que tu personal y tus clientes se sientan seguros y confíen en tu lugar, espacio o negocio.",
+    "imagen": "img/seguridad.jpg",
+    "alt": "Vigilador de Grupo NIEM con uniforme y handy",
+    "incluye": [
+      "Vigilancia adaptada a tu necesidad, hasta 24 horas",
+      "Monitoreo y videovigilancia",
+      "Control de ingreso y egreso de personas",
+      "Cuidado de personas, transporte y acompañamiento",
+      "Cuidado de bienes e inmuebles",
+      "Protocolos ante situaciones delictivas e imprevistos",
+      "Protocolos de incendio, evacuación y manejo de extintores",
+      "Primeros auxilios y RCP",
+      "Provisión de materiales y uniformes"
+    ]
+  },
+  {
+    "id": "limpieza",
+    "nombre": "Limpieza integral",
+    "resumen": "Espacios de trabajo saludables, seguros y agradables, con los insumos incluidos.",
+    "imagen": "img/limpieza.jpg",
+    "alt": "Operario de Grupo NIEM limpiando ventanales de una oficina",
+    "incluye": [
+      "Limpieza integral y mantenimiento general",
+      "Pisos: pulido, decapado, sellado y encerado",
+      "Vidrios, ventanales y cristales",
+      "Mobiliario, alfombras y tapizados",
+      "Piscinas y tanques de agua",
+      "Limpieza de final de obra",
+      "Mantenimiento de espacios verdes",
+      "Sanitización y desinfección de ambientes"
+    ]
+  },
+  {
+    "id": "mantenimiento",
+    "nombre": "Mantenimiento integral",
+    "resumen": "Mejoramos tus espacios para que sean más confortables, con técnicos matriculados en cada área.",
+    "imagen": "img/mantenimiento.jpg",
+    "alt": "Técnico realizando mantenimiento de un equipo de aire acondicionado",
+    "incluye": [
+      "Aires acondicionados: split, piso techo y ventana",
+      "Refrigeración: cíclicas, no frost, freezers y pozos de frío",
+      "Instalaciones eléctricas hogareñas e industriales",
+      "Construcción en seco: cerramientos, oficinas y terminaciones",
+      "Pintura de casas, departamentos y oficinas, interior y exterior",
+      "Asesoramiento de técnicos matriculados"
+    ]
+  }
+]

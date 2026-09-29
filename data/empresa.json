@@ -54,13 +54,13 @@
   ],
   "socios": [
     {
-      "nombre": "Carlos Emiliano Fernández Quijano",
-      "cargo": "Socio gerente",
+      "nombre": "Nicolas C. Schulz",
+      "cargo": "Socio",
       "foto": "img/socio-1.jpg"
     },
     {
-      "nombre": "Mauricio Nicolás Cáceres Schulz",
-      "cargo": "Socio",
+      "nombre": "Emiliano Fernandez Quijano",
+      "cargo": "Socio gerente",
       "foto": "img/socio-2.jpg"
     }
   ]

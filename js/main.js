@@ -97,17 +97,6 @@ function mostrarEmpresa(d) {
     revelar(li, i);
   });
 
-  // Eventos
-  const eventos = document.getElementById("lista-eventos");
-  d.eventos.forEach((ev, i) => {
-    const li = crear("li", "evento");
-    const texto = crear("div", "evento__texto");
-    texto.append(crear("span", "evento__nombre", ev.nombre), crear("span", "evento__lugar", ev.lugar));
-    li.append(crearFoto("evento__foto", ev.imagen, `Grupo NIEM en ${ev.nombre}`), texto);
-    eventos.append(li);
-    revelar(li, i);
-  });
-
   // Socios
   const socios = document.getElementById("lista-socios");
   d.socios.forEach((p, i) => {

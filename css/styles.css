@@ -531,46 +531,6 @@ h1, h2, h3 { font-family: var(--fuente-titulos); line-height: 1.08; }
   .sectores li { font-size: 1.1rem; padding: .7rem 1.25rem; }
 }
 
-/* ---------- Trayectoria ---------- */
-.trayectoria { display: grid; gap: 2.5rem; }
-
-.eventos { margin: 0; padding: 0; list-style: none; display: grid; gap: 1.5rem; }
-.evento {
-  display: grid;
-  background: var(--azul);
-  color: var(--blanco);
-  border-radius: var(--radio);
-  overflow: hidden;
-}
-.evento__foto {
-  position: relative;
-  margin: 0;
-  aspect-ratio: 16 / 9;
-  background: var(--azul-claro);
-}
-.evento__foto img { width: 100%; height: 100%; object-fit: cover; }
-.evento__foto.sin-foto img { display: none; }
-.evento__foto.sin-foto::after {
-  content: "";
-  position: absolute;
-  inset: 0;
-  background: var(--azul-claro);
-}
-.evento__texto { padding: 1.5rem; }
-.evento__nombre {
-  display: block;
-  font-family: var(--fuente-titulos);
-  font-weight: 900;
-  font-stretch: 110%;
-  font-size: clamp(1.8rem, 6vw, 2.6rem);
-  line-height: 1.05;
-}
-.evento__lugar { font-family: var(--fuente-ui); color: var(--dorado); }
-
-@media (min-width: 1024px) {
-  .trayectoria { grid-template-columns: 1fr 1.1fr; gap: 4rem; align-items: center; }
-}
-
 /* ---------- Nosotros ---------- */
 .nosotros { display: grid; gap: 3rem; }
 .nosotros__texto p:not(.texto-grande) { max-width: 36rem; color: var(--tinta-suave); }

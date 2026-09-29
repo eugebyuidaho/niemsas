@@ -8,6 +8,6 @@ Options -Indexes
 # Forzar HTTPS: descomentar las 3 líneas de abajo cuando el
 # certificado SSL esté activo. Si el sitio entra en un bucle
 # de redirecciones, volver a comentarlas.
-# RewriteEngine On
-# RewriteCond %{HTTPS} off
-# RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+RewriteEngine On
+RewriteCond %{HTTPS} off
+RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
